@@ -1,7 +1,17 @@
-## Hi there 👋
+ Hi there 👋
+ I'm Tanishka Shashikiran 
 
-<!--
-**TDesaiCodes/TDesaiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+
+🌱 Developing my skills in Full Stack Development and Python.
+
+🤖 Interested in Machine Learning, Artificial Intelligence, and intelligent applications.
+
+🛠️ Building projects that combine software development with practical problem-solving.
+
+🎯 Aspiring to create impactful software solutions and grow as a software engineer.
+
+📫 How to reach me: linkedin.com/in/tanishka-sm-desai |
 
 Here are some ideas to get you started:
 
